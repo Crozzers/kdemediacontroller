@@ -10,7 +10,18 @@ where it is the other way around, which I prefer.
 This applet also gives you the option to toggle the swapped taskbar icons, if you wish to play
 around with it yourself.
 
-## Side by side comparison
+## Installation
+
+To install the plugin, simply run the following commands:
+```bash
+git clone https://github.com/Crozzers/kdemediacontroller
+cd kdemediacontroller
+./install.sh
+```
+After this you should be able to add the widget to your dock like a regular KDE widget.
+Search for the "Media Player" widget described as an "applet with sensible icons".
+
+## Side by side icon comparison
 
 |                 | Media is Playing                   | Media is Paused
 |-----------------|------------------------------------|------------------------------------
