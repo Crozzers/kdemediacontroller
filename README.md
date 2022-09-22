@@ -26,4 +26,4 @@ Search for the "Media Player" widget described as an "applet with sensible icons
 |                 | Media is Playing                   | Media is Paused
 |-----------------|------------------------------------|------------------------------------
 | Default icons   | ![](img/media_play_icon_play.png)  | ![](img/media_pause_icon_pause.png)
-| *Swapped icons* | ![](img/media_pause_icon_play.png) | ![](img/media_play_icon_pause.png)
+| *Swapped icons* | ![](img/media_play_icon_pause.png) | ![](img/media_pause_icon_play.png)
