@@ -1,6 +1,6 @@
 # kdemediacontroller
 
-This is a clone of the default [KDE media controller widget](https://invent.kde.org/plasma/plasma-workspace/applets/mediacontroller) with one key difference.
+This is a clone of the default [KDE media controller widget](https://invent.kde.org/plasma/plasma-workspace/-/tree/master/applets/mediacontroller) with one key difference.
 I swapped the taskbar pause/play icons. That's all.
 
 Currently the default widget's taskbar applet shows a play icon when media is playing
